@@ -1,12 +1,12 @@
 {
-    "id": ,
-    "name": "",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
-    "percentToQualify": "",
-    "password": "",
+    "id": 1005,
+    "name": "Z",
+    "author": "Z",
+    "creators": [ZZZZ],
+    "verifier": "Z",
+    "verification": "Z",
+    "percentToQualify": "55",
+    "password": "Free To Copy",
     "records": [
     ]
 }
