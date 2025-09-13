@@ -7,12 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=unz70T7a04s",
     "percentToQualify": 56,
     "password": "Free To Copy",
-    "records":
+    "records":a
         {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
+            "user": "a",
+            "link": "a",
+            "percent":a,
+            "hz": 3666
         }
     
 }
